@@ -1,0 +1,11 @@
+*/Library/*
+*/Temp/*
+*/Logs/*
+*/Packages/*
+*/ProjectSettings/*
+*/*.DS_Store
+*.DS_Store
+obj
+*.vscode
+*.csproj
+*.sln
